@@ -27,4 +27,8 @@
 	// Scrolly.
 		$('.scrolly').scrolly();
 
+	$('#footer .icon').click(function(){
+		alert("Seriously? This website wasn't elaborate enough? You think I set up a social media presence for this gag? Sorry to disapoint.");
+	});
+
 })(jQuery);
