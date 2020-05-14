@@ -9,5 +9,6 @@
 }
 
 #header h1, #header p, #header footer{
+    position: relative;
     z-index: 20;
 }
